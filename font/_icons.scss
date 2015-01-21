@@ -1,0 +1,129 @@
+//
+// Icon Font: app2
+// fontcustom compile "svg optimized path"/ -t ../_icons.scss preview  --name=app2 --no-hash --base64; cat app2/_icons.scss | pbcopy
+//
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family    : 'app2';
+  speak          : none;
+  font-style     : normal;
+  font-weight    : normal;
+  font-variant   : normal;
+  text-transform : none;
+  line-height    : $touch-area;
+  display        : inline-block;
+  width          : $touch-area;
+  text-align     : center;
+  height         : $touch-area;
+  font-size      : 24px;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "app2";
+  src: url("./app2.eot?") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "app2";
+  src: url("data:application/x-font-woff;charset=utf-8;base64,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") format("woff"),
+       url("./app2.ttf") format("truetype"),
+       url("./app2.svg#app2") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "app2";
+    src: url("./app2.svg#app2") format("svg");
+  }
+}
+
+
+.icon-arrow-back:before { content: "\f100"; }
+.icon-arrow-down:before { content: "\f101"; }
+.icon-arrow-down-lean:before { content: "\f102"; }
+.icon-arrow-forward:before { content: "\f103"; }
+.icon-arrow-left:before { content: "\f104"; }
+.icon-arrow-left-lean:before { content: "\f105"; }
+.icon-arrow-right:before { content: "\f106"; }
+.icon-arrow-right-lean:before { content: "\f107"; }
+.icon-arrow-up:before { content: "\f108"; }
+.icon-arrow-up-lean:before { content: "\f109"; }
+.icon-audio:before { content: "\f10a"; }
+.icon-bars:before { content: "\f10b"; }
+.icon-camera:before { content: "\f10c"; }
+.icon-checkmark:before { content: "\f10d"; }
+.icon-chevron-down:before { content: "\f10e"; }
+.icon-chevron-left:before { content: "\f10f"; }
+.icon-chevron-right:before { content: "\f110"; }
+.icon-chevron-up:before { content: "\f111"; }
+.icon-cross:before { content: "\f112"; }
+.icon-decision-path:before { content: "\f113"; }
+.icon-double-chevron-down:before { content: "\f114"; }
+.icon-double-chevron-left:before { content: "\f115"; }
+.icon-double-chevron-right:before { content: "\f116"; }
+.icon-double-chevron-up:before { content: "\f117"; }
+.icon-download:before { content: "\f118"; }
+.icon-external:before { content: "\f127"; }
+.icon-generate:before { content: "\f119"; }
+.icon-help:before { content: "\f11a"; }
+.icon-home:before { content: "\f11b"; }
+.icon-location:before { content: "\f11c"; }
+.icon-naturalis:before { content: "\f11d"; }
+.icon-pause:before { content: "\f126"; }
+.icon-play:before { content: "\f11e"; }
+.icon-refresh:before { content: "\f11f"; }
+.icon-search:before { content: "\f120"; }
+.icon-triangle-down:before { content: "\f121"; }
+.icon-triangle-down-right:before { content: "\f122"; }
+.icon-triangle-left:before { content: "\f123"; }
+.icon-triangle-right:before { content: "\f124"; }
+.icon-triangle-up:before { content: "\f125"; }
+
+$icon-arrow-back: "\f100";
+$icon-arrow-down: "\f101";
+$icon-arrow-down-lean: "\f102";
+$icon-arrow-forward: "\f103";
+$icon-arrow-left: "\f104";
+$icon-arrow-left-lean: "\f105";
+$icon-arrow-right: "\f106";
+$icon-arrow-right-lean: "\f107";
+$icon-arrow-up: "\f108";
+$icon-arrow-up-lean: "\f109";
+$icon-audio: "\f10a";
+$icon-bars: "\f10b";
+$icon-camera: "\f10c";
+$icon-checkmark: "\f10d";
+$icon-chevron-down: "\f10e";
+$icon-chevron-left: "\f10f";
+$icon-chevron-right: "\f110";
+$icon-chevron-up: "\f111";
+$icon-cross: "\f112";
+$icon-decision-path: "\f113";
+$icon-double-chevron-down: "\f114";
+$icon-double-chevron-left: "\f115";
+$icon-double-chevron-right: "\f116";
+$icon-double-chevron-up: "\f117";
+$icon-download: "\f118";
+$icon-external: "\f127";
+$icon-generate: "\f119";
+$icon-help: "\f11a";
+$icon-home: "\f11b";
+$icon-location: "\f11c";
+$icon-naturalis: "\f11d";
+$icon-pause: "\f126";
+$icon-play: "\f11e";
+$icon-refresh: "\f11f";
+$icon-search: "\f120";
+$icon-triangle-down: "\f121";
+$icon-triangle-down-right: "\f122";
+$icon-triangle-left: "\f123";
+$icon-triangle-right: "\f124";
+$icon-triangle-up: "\f125";
