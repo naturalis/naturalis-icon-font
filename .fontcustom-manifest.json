@@ -1,0 +1,207 @@
+{
+  "checksum": {
+    "previous": "67f15c7e706b154cd6fdcb467dc6af8a5d8105b13ccddd6cf69fda95d0e17fb1",
+    "current": "67f15c7e706b154cd6fdcb467dc6af8a5d8105b13ccddd6cf69fda95d0e17fb1"
+  },
+  "fonts": [
+    "app2/app2.ttf",
+    "app2/app2.svg",
+    "app2/app2.woff",
+    "app2/app2.eot"
+  ],
+  "glyphs": {
+    "arrow-back": {
+      "codepoint": 61696,
+      "source": "svg optimized path/arrow-back.svg"
+    },
+    "arrow-down": {
+      "codepoint": 61697,
+      "source": "svg optimized path/arrow-down.svg"
+    },
+    "arrow-down-lean": {
+      "codepoint": 61698,
+      "source": "svg optimized path/arrow-down-lean.svg"
+    },
+    "arrow-forward": {
+      "codepoint": 61699,
+      "source": "svg optimized path/arrow-forward.svg"
+    },
+    "arrow-left": {
+      "codepoint": 61700,
+      "source": "svg optimized path/arrow-left.svg"
+    },
+    "arrow-left-lean": {
+      "codepoint": 61701,
+      "source": "svg optimized path/arrow-left-lean.svg"
+    },
+    "arrow-right": {
+      "codepoint": 61702,
+      "source": "svg optimized path/arrow-right.svg"
+    },
+    "arrow-right-lean": {
+      "codepoint": 61703,
+      "source": "svg optimized path/arrow-right-lean.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61704,
+      "source": "svg optimized path/arrow-up.svg"
+    },
+    "arrow-up-lean": {
+      "codepoint": 61705,
+      "source": "svg optimized path/arrow-up-lean.svg"
+    },
+    "audio": {
+      "codepoint": 61706,
+      "source": "svg optimized path/audio.svg"
+    },
+    "bars": {
+      "codepoint": 61707,
+      "source": "svg optimized path/bars.svg"
+    },
+    "camera": {
+      "codepoint": 61708,
+      "source": "svg optimized path/camera.svg"
+    },
+    "checkmark": {
+      "codepoint": 61709,
+      "source": "svg optimized path/checkmark.svg"
+    },
+    "chevron-down": {
+      "codepoint": 61710,
+      "source": "svg optimized path/chevron-down.svg"
+    },
+    "chevron-left": {
+      "codepoint": 61711,
+      "source": "svg optimized path/chevron-left.svg"
+    },
+    "chevron-right": {
+      "codepoint": 61712,
+      "source": "svg optimized path/chevron-right.svg"
+    },
+    "chevron-up": {
+      "codepoint": 61713,
+      "source": "svg optimized path/chevron-up.svg"
+    },
+    "cross": {
+      "codepoint": 61714,
+      "source": "svg optimized path/cross.svg"
+    },
+    "decision-path": {
+      "codepoint": 61715,
+      "source": "svg optimized path/decision-path.svg"
+    },
+    "double-chevron-down": {
+      "codepoint": 61716,
+      "source": "svg optimized path/double-chevron-down.svg"
+    },
+    "double-chevron-left": {
+      "codepoint": 61717,
+      "source": "svg optimized path/double-chevron-left.svg"
+    },
+    "double-chevron-right": {
+      "codepoint": 61718,
+      "source": "svg optimized path/double-chevron-right.svg"
+    },
+    "double-chevron-up": {
+      "codepoint": 61719,
+      "source": "svg optimized path/double-chevron-up.svg"
+    },
+    "download": {
+      "codepoint": 61720,
+      "source": "svg optimized path/download.svg"
+    },
+    "external": {
+      "codepoint": 61735,
+      "source": "svg optimized path/external.svg"
+    },
+    "generate": {
+      "codepoint": 61721,
+      "source": "svg optimized path/generate.svg"
+    },
+    "help": {
+      "codepoint": 61722,
+      "source": "svg optimized path/help.svg"
+    },
+    "home": {
+      "codepoint": 61723,
+      "source": "svg optimized path/home.svg"
+    },
+    "location": {
+      "codepoint": 61724,
+      "source": "svg optimized path/location.svg"
+    },
+    "naturalis": {
+      "codepoint": 61725,
+      "source": "svg optimized path/naturalis.svg"
+    },
+    "pause": {
+      "codepoint": 61734,
+      "source": "svg optimized path/pause.svg"
+    },
+    "play": {
+      "codepoint": 61726,
+      "source": "svg optimized path/play.svg"
+    },
+    "refresh": {
+      "codepoint": 61727,
+      "source": "svg optimized path/refresh.svg"
+    },
+    "search": {
+      "codepoint": 61728,
+      "source": "svg optimized path/search.svg"
+    },
+    "triangle-down": {
+      "codepoint": 61729,
+      "source": "svg optimized path/triangle-down.svg"
+    },
+    "triangle-down-right": {
+      "codepoint": 61730,
+      "source": "svg optimized path/triangle-down-right.svg"
+    },
+    "triangle-left": {
+      "codepoint": 61731,
+      "source": "svg optimized path/triangle-left.svg"
+    },
+    "triangle-right": {
+      "codepoint": 61732,
+      "source": "svg optimized path/triangle-right.svg"
+    },
+    "triangle-up": {
+      "codepoint": 61733,
+      "source": "svg optimized path/triangle-up.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "base64": true,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "app2",
+    "force": false,
+    "input": {
+      "templates": "svg optimized path/",
+      "vectors": "svg optimized path/"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "app2",
+      "fonts": "app2",
+      "preview": "app2"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "../_icons.scss",
+      "preview"
+    ]
+  },
+  "templates": [
+    "app2/_icons.scss",
+    "app2/app2-preview.html"
+  ]
+}
