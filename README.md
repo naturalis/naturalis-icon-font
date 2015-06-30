@@ -24,4 +24,12 @@ You can use online recourses to convert and combine SVG files into a font, notab
 
 or:
 - http://fontello.com/ (not tested by contributer)
+- 
+## Installing font on computer
+
+You can also simply use the TTF file from the downloaded ZIP to install the font on your computer.
+
+If you want to use the font only on your computer, you might want to assign different characters to the font, so that it maps to, for exampele, "A", "B", "C" etcetera.
+
+By default, the characters are assigned to very high UNICODE numbers, reserved for... icons! But,these are hard to enter using a keyboard,
 
