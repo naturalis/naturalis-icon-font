@@ -13,6 +13,8 @@ The main advantages of using an icon font are (quoting iconfont.com)
 
 If you just want to use any of the icons, you can browse through the 'generated' folder in this repro. Just open the PDF to view all icons. The icons are available as SVG, PNG and PDF files. 
 
+The Naturalis logo (the 'N=' icon) is copyrighter by Naturalis Biodiversity Center.
+
 You can also install the font on your computer. The font file is available in: _generated/font/fonts/Naturalis-UI-Icons.ttf_  Mind you that the icons are not mapped to regular characters, but are all available as glyphs in Unicodes Private Use Area. You might need to use a character map to find them, or copy the character from the demo.pdf or demo.html file.
 
 If this is too cumbersome, you would need to JSON file from the root of the repro in the /iconmoon webapp/ and re-assign the icons to more usable (typable) characters, such as "A", "B", "C" etc. You need to use the IcoMoon web-app for this.
