@@ -17,7 +17,7 @@ The SVG files are also contained in the JSON file. You can use this JSON file to
 
 == Using in websites ==
 
-From the icomoon app, you can download the font. It also includes a sample HTML file and the proper CSS to copy-paste in your website.
+From the icomoon app, you can download the font. It also includes a sample HTML file and the proper CSS to copy-paste in your website. Under preferences, choose 'Encode & Embed font in CSS' and "Generate stylesheet Variables for" and "SASS".
 
 You can use online recourses to convert and combine SVG files into a font, notably:
 - https://icomoon.io/
