@@ -1,204 +1,292 @@
 {
   "checksum": {
-    "previous": "67f15c7e706b154cd6fdcb467dc6af8a5d8105b13ccddd6cf69fda95d0e17fb1",
-    "current": "67f15c7e706b154cd6fdcb467dc6af8a5d8105b13ccddd6cf69fda95d0e17fb1"
+    "previous": "54808d178b3543d34027c3ed2e1efb1b24ce25ee680360ff94e3dfc9be3499c7",
+    "current": "b173d1feb0475b40494c460b514859cb6bf3b4dba95d284990fa890240a02e8c"
   },
   "fonts": [
-    "app2/app2.ttf",
-    "app2/app2.svg",
-    "app2/app2.woff",
-    "app2/app2.eot"
+
   ],
   "glyphs": {
     "arrow-back": {
-      "codepoint": 61696,
-      "source": "svg optimized path/arrow-back.svg"
+      "source": "svg/arrow-back.svg",
+      "codepoint": 61811
     },
     "arrow-down": {
-      "codepoint": 61697,
-      "source": "svg optimized path/arrow-down.svg"
+      "source": "svg/arrow-down.svg",
+      "codepoint": 61812
     },
     "arrow-down-lean": {
-      "codepoint": 61698,
-      "source": "svg optimized path/arrow-down-lean.svg"
-    },
-    "arrow-forward": {
-      "codepoint": 61699,
-      "source": "svg optimized path/arrow-forward.svg"
+      "source": "svg/arrow-down-lean.svg",
+      "codepoint": 61813
     },
     "arrow-left": {
-      "codepoint": 61700,
-      "source": "svg optimized path/arrow-left.svg"
+      "source": "svg/arrow-left.svg",
+      "codepoint": 61814
     },
     "arrow-left-lean": {
-      "codepoint": 61701,
-      "source": "svg optimized path/arrow-left-lean.svg"
+      "source": "svg/arrow-left-lean.svg",
+      "codepoint": 61815
+    },
+    "arrow-next": {
+      "source": "svg/arrow-next.svg",
+      "codepoint": 61816
     },
     "arrow-right": {
-      "codepoint": 61702,
-      "source": "svg optimized path/arrow-right.svg"
+      "source": "svg/arrow-right.svg",
+      "codepoint": 61817
     },
     "arrow-right-lean": {
-      "codepoint": 61703,
-      "source": "svg optimized path/arrow-right-lean.svg"
+      "source": "svg/arrow-right-lean.svg",
+      "codepoint": 61818
     },
     "arrow-up": {
-      "codepoint": 61704,
-      "source": "svg optimized path/arrow-up.svg"
+      "source": "svg/arrow-up.svg",
+      "codepoint": 61819
     },
     "arrow-up-lean": {
-      "codepoint": 61705,
-      "source": "svg optimized path/arrow-up-lean.svg"
+      "source": "svg/arrow-up-lean.svg",
+      "codepoint": 61820
+    },
+    "arrow-up-left": {
+      "source": "svg/arrow-up-left.svg",
+      "codepoint": 61821
     },
     "audio": {
-      "codepoint": 61706,
-      "source": "svg optimized path/audio.svg"
+      "source": "svg/audio.svg",
+      "codepoint": 61822
     },
     "bars": {
-      "codepoint": 61707,
-      "source": "svg optimized path/bars.svg"
+      "source": "svg/bars.svg",
+      "codepoint": 61823
+    },
+    "bullet": {
+      "source": "svg/bullet.svg",
+      "codepoint": 61869
     },
     "camera": {
-      "codepoint": 61708,
-      "source": "svg optimized path/camera.svg"
+      "source": "svg/camera.svg",
+      "codepoint": 61824
     },
     "checkmark": {
-      "codepoint": 61709,
-      "source": "svg optimized path/checkmark.svg"
+      "source": "svg/checkmark.svg",
+      "codepoint": 61825
     },
     "chevron-down": {
-      "codepoint": 61710,
-      "source": "svg optimized path/chevron-down.svg"
+      "source": "svg/chevron-down.svg",
+      "codepoint": 61826
     },
     "chevron-left": {
-      "codepoint": 61711,
-      "source": "svg optimized path/chevron-left.svg"
+      "source": "svg/chevron-left.svg",
+      "codepoint": 61827
     },
     "chevron-right": {
-      "codepoint": 61712,
-      "source": "svg optimized path/chevron-right.svg"
+      "source": "svg/chevron-right.svg",
+      "codepoint": 61828
     },
     "chevron-up": {
-      "codepoint": 61713,
-      "source": "svg optimized path/chevron-up.svg"
+      "source": "svg/chevron-up.svg",
+      "codepoint": 61829
     },
     "cross": {
-      "codepoint": 61714,
-      "source": "svg optimized path/cross.svg"
+      "source": "svg/cross.svg",
+      "codepoint": 61830
+    },
+    "database": {
+      "source": "svg/database.svg",
+      "codepoint": 61831
     },
     "decision-path": {
-      "codepoint": 61715,
-      "source": "svg optimized path/decision-path.svg"
+      "source": "svg/decision-path.svg",
+      "codepoint": 61832
     },
     "double-chevron-down": {
-      "codepoint": 61716,
-      "source": "svg optimized path/double-chevron-down.svg"
+      "source": "svg/double-chevron-down.svg",
+      "codepoint": 61833
     },
     "double-chevron-left": {
-      "codepoint": 61717,
-      "source": "svg optimized path/double-chevron-left.svg"
+      "source": "svg/double-chevron-left.svg",
+      "codepoint": 61834
     },
     "double-chevron-right": {
-      "codepoint": 61718,
-      "source": "svg optimized path/double-chevron-right.svg"
+      "source": "svg/double-chevron-right.svg",
+      "codepoint": 61835
     },
     "double-chevron-up": {
-      "codepoint": 61719,
-      "source": "svg optimized path/double-chevron-up.svg"
+      "source": "svg/double-chevron-up.svg",
+      "codepoint": 61836
     },
     "download": {
-      "codepoint": 61720,
-      "source": "svg optimized path/download.svg"
+      "source": "svg/download.svg",
+      "codepoint": 61837
     },
     "external": {
-      "codepoint": 61735,
-      "source": "svg optimized path/external.svg"
+      "source": "svg/external.svg",
+      "codepoint": 61839
+    },
+    "filter": {
+      "source": "svg/filter.svg",
+      "codepoint": 61870
     },
     "generate": {
-      "codepoint": 61721,
-      "source": "svg optimized path/generate.svg"
+      "source": "svg/generate.svg",
+      "codepoint": 61841
     },
     "help": {
-      "codepoint": 61722,
-      "source": "svg optimized path/help.svg"
+      "source": "svg/help.svg",
+      "codepoint": 61842
     },
     "home": {
-      "codepoint": 61723,
-      "source": "svg optimized path/home.svg"
+      "source": "svg/home.svg",
+      "codepoint": 61843
     },
     "location": {
-      "codepoint": 61724,
-      "source": "svg optimized path/location.svg"
+      "source": "svg/location.svg",
+      "codepoint": 61844
+    },
+    "media-back": {
+      "source": "svg/media-back.svg",
+      "codepoint": 61873
+    },
+    "media-playback-pause": {
+      "source": "svg/media-playback-pause.svg",
+      "codepoint": 61874
+    },
+    "media-playback-start": {
+      "source": "svg/media-playback-start.svg",
+      "codepoint": 61875
+    },
+    "media-seek-backward": {
+      "source": "svg/media-seek-backward.svg",
+      "codepoint": 61876
+    },
+    "media-seek-forward": {
+      "source": "svg/media-seek-forward.svg",
+      "codepoint": 61877
+    },
+    "media-skip-back": {
+      "source": "svg/media-skip-back.svg",
+      "codepoint": 61878
+    },
+    "media-skip-backward": {
+      "source": "svg/media-skip-backward.svg",
+      "codepoint": 61879
+    },
+    "media-skip-forward": {
+      "source": "svg/media-skip-forward.svg",
+      "codepoint": 61880
+    },
+    "media-skip-next": {
+      "source": "svg/media-skip-next.svg",
+      "codepoint": 61881
     },
     "naturalis": {
-      "codepoint": 61725,
-      "source": "svg optimized path/naturalis.svg"
+      "source": "svg/naturalis.svg",
+      "codepoint": 61845
     },
-    "pause": {
-      "codepoint": 61734,
-      "source": "svg optimized path/pause.svg"
-    },
-    "play": {
-      "codepoint": 61726,
-      "source": "svg optimized path/play.svg"
+    "pinch": {
+      "source": "svg/pinch.svg",
+      "codepoint": 61871
     },
     "refresh": {
-      "codepoint": 61727,
-      "source": "svg optimized path/refresh.svg"
+      "source": "svg/refresh.svg",
+      "codepoint": 61848
     },
     "search": {
-      "codepoint": 61728,
-      "source": "svg optimized path/search.svg"
+      "source": "svg/search.svg",
+      "codepoint": 61850
+    },
+    "sort_1_9": {
+      "source": "svg/sort_1_9.svg",
+      "codepoint": 61851
+    },
+    "sort_9_1": {
+      "source": "svg/sort_9_1.svg",
+      "codepoint": 61852
+    },
+    "sort_a_z": {
+      "source": "svg/sort_a_z.svg",
+      "codepoint": 61853
+    },
+    "sort_little_much": {
+      "source": "svg/sort_little_much.svg",
+      "codepoint": 61854
+    },
+    "sort_much_little": {
+      "source": "svg/sort_much_little.svg",
+      "codepoint": 61855
+    },
+    "sort_sortable": {
+      "source": "svg/sort_sortable.svg",
+      "codepoint": 61856
+    },
+    "sort_z_a": {
+      "source": "svg/sort_z_a.svg",
+      "codepoint": 61857
+    },
+    "square_empty": {
+      "source": "svg/square_empty.svg",
+      "codepoint": 61858
+    },
+    "square_full": {
+      "source": "svg/square_full.svg",
+      "codepoint": 61859
+    },
+    "steps": {
+      "source": "svg/steps.svg",
+      "codepoint": 61872
+    },
+    "tree": {
+      "source": "svg/tree.svg",
+      "codepoint": 61862
     },
     "triangle-down": {
-      "codepoint": 61729,
-      "source": "svg optimized path/triangle-down.svg"
+      "source": "svg/triangle-down.svg",
+      "codepoint": 61863
     },
     "triangle-down-right": {
-      "codepoint": 61730,
-      "source": "svg optimized path/triangle-down-right.svg"
+      "source": "svg/triangle-down-right.svg",
+      "codepoint": 61864
     },
     "triangle-left": {
-      "codepoint": 61731,
-      "source": "svg optimized path/triangle-left.svg"
+      "source": "svg/triangle-left.svg",
+      "codepoint": 61865
     },
     "triangle-right": {
-      "codepoint": 61732,
-      "source": "svg optimized path/triangle-right.svg"
+      "source": "svg/triangle-right.svg",
+      "codepoint": 61866
     },
     "triangle-up": {
-      "codepoint": 61733,
-      "source": "svg optimized path/triangle-up.svg"
+      "source": "svg/triangle-up.svg",
+      "codepoint": 61867
     }
   },
   "options": {
-    "autowidth": false,
-    "base64": true,
-    "config": false,
-    "css_selector": ".icon-{{glyph}}",
-    "debug": false,
-    "font_ascent": 448,
-    "font_descent": 64,
-    "font_design_size": 16,
-    "font_em": 512,
-    "font_name": "app2",
-    "force": false,
     "input": {
-      "templates": "svg optimized path/",
-      "vectors": "svg optimized path/"
+      "vectors": "svg/",
+      "templates": "svg/"
     },
-    "no_hash": true,
     "output": {
-      "css": "app2",
       "fonts": "app2",
+      "css": "app2",
       "preview": "app2"
     },
-    "preprocessor_path": null,
-    "quiet": false,
+    "config": false,
     "templates": [
       "../_icons.scss",
       "preview"
-    ]
+    ],
+    "font_name": "app2",
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "css_selector": ".icon-{{glyph}}",
+    "preprocessor_path": null,
+    "autowidth": false,
+    "no_hash": true,
+    "debug": true,
+    "force": true,
+    "quiet": false
   },
   "templates": [
     "app2/_icons.scss",

@@ -4,7 +4,7 @@
 // SASS-variables. Copy-paste only the last part and append to 
 // the CSS file
 
-$homepage = file_get_contents('../font/style.css');
+$homepage = file_get_contents('~/Desktop/App2/style.css');
 $homepage = str_replace("{\n", "", $homepage);
 $homepage = str_replace("\n}", "", $homepage);
 $homepage = str_replace("\n}", "", $homepage);
