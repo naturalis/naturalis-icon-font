@@ -15,6 +15,8 @@ Workflow:
 - load font into website
 - use html and css to display them on your website.
 
+The SVG files in this repro are created using Adobe Illustrator by saving every artboard to a SVG file. It's also possible to edit or adjust SVG files using Inkscape. But don't combine workflows, or you risk losing work when Adobe Illustrator overwrites your custom SVG files.
+
 
 You can use online recourses to convert and combine SVG files into a font, notably:
 - https://icomoon.io/
