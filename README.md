@@ -36,7 +36,7 @@ Open the JSON file in the /icomoon app/ and update the selected icons.
 
 When you add, edit or change any of the SVG files, you need to re-generate everything under the _generated_ folder of this repro. This folder should contain both the generated folder, as the generated SVG, PNG and PDF files. It requires some unzipping and moving of folders to get everything in place.
 
-Most important, we need to download the generated font again. Under 'geneate font' --> preferences, make sure to choose "Encode & Embed font in CSS' and "Generate Stylesheets Variabels for:" and "Sass".
+Most important, we need to download the generated font again. Under 'generate font' --> preferences, make sure to choose "Encode & Embed font in CSS' and "Generate Stylesheets Variabels for:" and "Sass".
 
 The generated folder should look as such:
 -[Generated[]
